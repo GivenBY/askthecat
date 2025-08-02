@@ -1,0 +1,13 @@
+streamlit
+groq
+python-dotenv
+sentence-transformers
+faiss-cpu
+torch
+numpy
+pytesseract
+python-docx
+PyMuPDF
+pdf2image
+Pillow
+opencv-python-headless
